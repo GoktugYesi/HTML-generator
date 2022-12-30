@@ -18,8 +18,6 @@ This code creates HTML files for the specified numbers. For each number, an HTML
 
 The file name is matched with the generated number (e.g. "1.html", "2.html" or "3.html").
 
-#Prerequisites
-
 ## Prerequisites
 
 Herhangi bir ek bilgi buraya gelir
