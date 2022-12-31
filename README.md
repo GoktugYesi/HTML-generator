@@ -20,11 +20,6 @@ The file name is matched with the generated number (e.g. "1.html", "2.html" or "
 
 ## Prerequisites
 
-Herhangi bir ek bilgi buraya gelir
-
-  Node.js
-## Prerequisites
-
 - [Node.js]((https://choosealicense.com/licenses/mit/))
 
 
